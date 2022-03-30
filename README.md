@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Darko96/fylo-landing-page-with-two-column]
+- Live Site URL: [https://darko96.github.io/fylo-landing-page-with-two-column/]
 
 ## My process
 
